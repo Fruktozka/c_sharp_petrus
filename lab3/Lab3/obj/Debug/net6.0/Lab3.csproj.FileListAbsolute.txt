@@ -1,0 +1,15 @@
+D:\Projects\Lilya\c#\Lab3\Lab3\bin\Debug\net6.0\Lab3.exe
+D:\Projects\Lilya\c#\Lab3\Lab3\bin\Debug\net6.0\Lab3.deps.json
+D:\Projects\Lilya\c#\Lab3\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+D:\Projects\Lilya\c#\Lab3\Lab3\bin\Debug\net6.0\Lab3.dll
+D:\Projects\Lilya\c#\Lab3\Lab3\bin\Debug\net6.0\ref\Lab3.dll
+D:\Projects\Lilya\c#\Lab3\Lab3\bin\Debug\net6.0\Lab3.pdb
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.dll
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.pdb
+D:\Projects\Lilya\c#\Lab3\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache

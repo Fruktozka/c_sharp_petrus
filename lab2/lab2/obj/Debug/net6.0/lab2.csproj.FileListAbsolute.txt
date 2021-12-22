@@ -1,0 +1,15 @@
+C:\Projects\Lilya\csharp\lab2\lab2\bin\Debug\net6.0\lab2.exe
+C:\Projects\Lilya\csharp\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+C:\Projects\Lilya\csharp\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+C:\Projects\Lilya\csharp\lab2\lab2\bin\Debug\net6.0\lab2.dll
+C:\Projects\Lilya\csharp\lab2\lab2\bin\Debug\net6.0\ref\lab2.dll
+C:\Projects\Lilya\csharp\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.dll
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+C:\Projects\Lilya\csharp\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache

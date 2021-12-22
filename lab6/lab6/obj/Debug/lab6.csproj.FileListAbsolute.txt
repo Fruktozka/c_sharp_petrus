@@ -1,0 +1,8 @@
+D:\Projects\Lilya\c#\lab6\lab6\bin\Debug\lab6.exe.config
+D:\Projects\Lilya\c#\lab6\lab6\bin\Debug\lab6.exe
+D:\Projects\Lilya\c#\lab6\lab6\bin\Debug\lab6.pdb
+D:\Projects\Lilya\c#\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+D:\Projects\Lilya\c#\lab6\lab6\obj\Debug\lab6.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Lilya\c#\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\Projects\Lilya\c#\lab6\lab6\obj\Debug\lab6.exe
+D:\Projects\Lilya\c#\lab6\lab6\obj\Debug\lab6.pdb
